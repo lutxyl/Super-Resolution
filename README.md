@@ -4,9 +4,9 @@ A collection of state-of-the-art Super-Resolution architectures.
 # Network list (Updating)
 The hyperlink directs to paper site, follows the official codes if the authors open sources.
 
-|Model |Published |Code* |Keywords|
-|:-----|:---------|:-----|:-------|
-|(TENet) Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution| [arXiv](https://arxiv.org/pdf/1905.02538.pdf)|[Pytorch](https://github.com/guochengqian/TENet)| a Joint Solution for Demosaicking, Denoising and Super-Resolution |
+|Model |Published |Code |Keywords| Person liable*|
+|:-----|:---------|:-----|:-------|:-------|
+|(TENet) Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution| [arXiv](https://arxiv.org/pdf/1905.02538.pdf)|[Pytorch](https://github.com/guochengqian/TENet)| a Joint Solution for Demosaicking, Denoising and Super-Resolution |Jiaming Wang |
 
 ## Link of datasets
 *(please contact me if any of links offend you or any one disabled)*

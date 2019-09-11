@@ -19,10 +19,10 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 ## Person liable
 |#|Name |Mail* |
 |:-----|:----- |:-----|
-|16级|[Jiaming Wang](https://github.com/jiaming-wang)|wjmecho@163.com|
+|19级|[Kanghui Zhao](https://github.com/zkh)|578969495@qq.com|
+|19级|[Yuanzhi Wang](https://github.com/mdswyz)|906522992@qq.com|
+|18级|[Yu Wang](https://github.com/Yu-Wang-0801)|949374585@qq.com|
 |17级|[Ruobo Xu](https://github.com/Ruobo-Xu)|812887279@qq.com|
 |17级|[Xiaohui Hao](https://github.com/Xiaohui-Hao)|1041353234@qq.com|
 |17级|[Chong Chen](https://github.com/iChenchong)|chenchongs@live.com|
-|18级|[Yu Wang](https://github.com/Yu-Wang-0801)|949374585@qq.com|
-|19级|[Yuanzhi Wang](https://github.com/mdswyz)|906522992@qq.com|
-|19级|[Kanghui Zhao](https://github.com/zkh)|578969495@qq.com|
+|16级|[Jiaming Wang](https://github.com/jiaming-wang)|wjmecho@163.com|

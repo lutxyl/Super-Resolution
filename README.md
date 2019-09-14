@@ -7,7 +7,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |Model |Published |Code|Keywords|Person liable*|
 |:-----|:---------|:-----|:-------|:-------|
 |(TENet) Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution| [arXiv](https://arxiv.org/pdf/1905.02538.pdf)|[Pytorch](https://github.com/guochengqian/TENet)| a Joint Solution for Demosaicking, Denoising and Super-Resolution | Jiaming Wang|
-|Meta-SR: A Magnification-Arbitrary Network for Super-Resolution(CVPR2019)| [arXiv][Paper](https://arxiv.org/pdf/1903.00875.pdf)|[Pytorch](https://github.com/XuecaiHu/Meta-SR-Pytorch)| a Meta-Upscale Module for Super-Resolution | Chong Chen|
+|Meta-SR: A Magnification-Arbitrary Network for Super-Resolution(CVPR2019)| [arXiv](https://arxiv.org/pdf/1903.00875.pdf)|[Pytorch](https://github.com/XuecaiHu/Meta-SR-Pytorch)| a Meta-Upscale Module for Super-Resolution | Chong Chen|
 
 ## Link of datasets
 *(please contact me if any of links offend you or any one disabled)*

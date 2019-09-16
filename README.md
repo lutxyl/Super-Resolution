@@ -41,4 +41,4 @@ A collection of state-of-the-art Super-Resolution architectures. e.g. Face Super
 |17级|[Xiaohui Hao](https://github.com/Xiaohui-Hao)|1041353234@qq.com|
 |17级|[Chong Chen](https://github.com/iChenchong)|chenchongs@live.com|
 |16级|[Jiaming Wang](https://github.com/jiaming-wang)|wjmecho@163.com|
-|16级|[Kangli Zeng](https://github.com/kangli-zeng)|kangli.zeng@gmail.com|
+|16级|[Kangli Zeng](https://github.com/kangkzeng)|kangli.zeng@gmail.com|

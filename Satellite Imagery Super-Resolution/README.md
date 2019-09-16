@@ -1,4 +1,4 @@
-# Super-Resolution
+# Satellite Imagery Super-Resolution
 A collection of state-of-the-art Satellite Imagery super-resolution architectures.
 
 ## Network list and reference (Updating)

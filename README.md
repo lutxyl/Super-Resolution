@@ -34,7 +34,7 @@ A collection of state-of-the-art Super-Resolution architectures. e.g. Face Super
 ## Person liable
 |#|Name |Mail* |
 |:-----|:----- |:-----|
-|19级|[Kanghui Zhao](https://github.com/zkh)|578969495@qq.com|
+|19级|[Kanghui Zhao](https://github.com/zkh123456789)|578969495@qq.com|
 |19级|[Yuanzhi Wang](https://github.com/mdswyz)|906522992@qq.com|
 |18级|[Yu Wang](https://github.com/Yu-Wang-0801)|949374585@qq.com|
 |17级|[Ruobo Xu](https://github.com/Ruobo-Xu)|812887279@qq.com|

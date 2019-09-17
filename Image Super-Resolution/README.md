@@ -10,7 +10,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |(Meta-SR) A Magnification-Arbitrary Network for Super-Resolution| [CVPR2019](https://arxiv.org/pdf/1903.00875.pdf)|[Pytorch](https://github.com/XuecaiHu/Meta-SR-Pytorch)| a Meta-Upscale Module for Super-Resolution | Chong Chen|
 |(RealSR)Toward Real-World Single Image Super-Resolution:A New Benchmark and A New Model| [ICCV2019](https://csjcai.github.io/papers/RealSR.pdf)|[Caffe](https://github.com/csjcai/RealSR)| Toward Real-World | Yuanzhi Wang|
 |(DPSR)Deep Plug-and-Play Super-Resolution for Arbitrary Blur Kernels| [CVPR2019](https://arxiv.org/abs/1903.12529)|[Pytorch](https://github.com/cszn/DPSR)| Plug-and-Play Super-Resolution | Yuanzhi Wang|
-|(IKC)Blind Super-Resolution With Iterative Kernel Correction| [CVPR2019](https://arxiv.org/abs/1904.03377|[Pytorch](https://github.com/yuanjunchai/IKC)| Iterative Kernel Correction | Yuanzhi Wang|
+|(IKC)Blind Super-Resolution With Iterative Kernel Correction| [CVPR2019](https://arxiv.org/abs/1904.03377)|[Pytorch](https://github.com/yuanjunchai/IKC)| Iterative Kernel Correction | Yuanzhi Wang|
 |(PASSRnet)Learning Parallax Attention for Stereo Image Super-Resolution| [CVPR2019](https://arxiv.org/pdf/1903.05784.pdf)|[Pytorch](https://github.com/LongguangWang/PASSRnet?tdsourcetag=s_pcqq_aiomsg)| Learning Parallax Attention | Yuanzhi Wang|
 |(SRFBN)Feedback Network for Image Super-Resolution| [CVPR2019](https://arxiv.org/abs/1903.09814)|[Pytorch](https://github.com/Paper99/SRFBN_CVPR19)| Feedback Network | Yuanzhi Wang|
 |(SRNTT)Image Super-Resolution by Neural Texture Transfer| [CVPR2019](https://arxiv.org/abs/1903.00834)|[Tensorflow](https://github.com/ZZUTK/SRNTT)| Neural Texture Transfer | Yuanzhi Wang|

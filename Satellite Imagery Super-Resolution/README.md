@@ -6,9 +6,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 
 |Model |Published |Code* |Keywords|Person liable*|
 |:-----|:---------|:-----|:-------|:-------|
-|(SROD)The Effects of Super-Resolution on Object Detection Performance in Satellite Imagery|[CVPR2019](http://openaccess.thecvf.com/content_CVPRW_2019/html/EarthVision/Shermeyer_The_Effects_of_Super-Resolution_on_Object_Detection_Performance_in_Satellite_CVPRW_2019_paper.html)|| Satellite Imagery |Kanghui Zhao|
-|(DNSR)On training deep networks for satellite image super-resolution|[IGARSS2019](https://arxiv.org/abs/1906.06697)|| Satellite Imagery |Kanghui Zhao|
-|(PECNN) A Progressively Enhanced Network for Video Satellite Imagery Super-Resolution |[IEEE2018](https://ieeexplore.ieee.org/document/8466642)|[Tensorflow](https://github.com/kuihua/PECNN)| Satellite Imagery |Kanghui Zhao|
-|(CASSR)Comparative Analysis of Single and Multi Frame Super Resolution in Satellite Imagery|[IGARSS2018](https://ieeexplore.ieee.org/abstract/document/8517329)|| Satellite Imagery |Kanghui Zhao|
-|(VSSR)Video Satellite Imagery Super Resolution via Convolutional Neural Networks|[IEEE2017](https://ieeexplore.ieee.org/abstract/document/8101498)|[Tensorflow](https://github.com/zhouliguo/VSSR)| Satellite Imagery |Kanghui Zhao|
-|(ADECNN)Super Resolution Reconstruction Based on Adaptive Detail Enhancement for ZY-3 Satellite Images |[ISPRS2016](https://pdfs.semanticscholar.org/81cb/19602deeb724ce22dfc29e374ac787c61f1e.pdf)|| Satellite Imagery |Kanghui Zhao|
+|(PECNN) A Progressively Enhanced Network for Video Satellite Imagery Super-Resolution SR|[IEEE2018](https://ieeexplore.ieee.org/document/8466642)|[Tensorflow](https://github.com/kuihua/PECNN)| Satellite Imagery |Kanghui Zhao|
+|(DDRN)Deep Distillation Recursive Network for Remote Sensing Imagery Super-Resolution|[MDPI2018](https://www.mdpi.com/2072-4292/10/11/1700|[Tensorflow]https://github.com/kuihua/DDRN| Satellite Imagery SR|Kanghui Zhao|
+|(VSSR)Video Satellite Imagery Super Resolution via Convolutional Neural Networks|[IEEE2017](https://ieeexplore.ieee.org/abstract/document/8101498)|[Tensorflow](https://github.com/zhouliguo/VSSR)| Satellite Imagery SR|Kanghui Zhao|
+

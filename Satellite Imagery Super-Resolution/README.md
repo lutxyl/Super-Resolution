@@ -11,3 +11,4 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |(PECNN) A Progressively Enhanced Network for Video Satellite Imagery Super-Resolution |[IEEE2018](https://ieeexplore.ieee.org/document/8466642)|[Tensorflow](https://github.com/kuihua/PECNN)| Satellite Imagery |Kanghui Zhao|
 |(CASSR)Comparative Analysis of Single and Multi Frame Super Resolution in Satellite Imagery|[IGARSS2018](https://ieeexplore.ieee.org/abstract/document/8517329)|| Satellite Imagery |Kanghui Zhao|
 |(VSSR)Video Satellite Imagery Super Resolution via Convolutional Neural Networks|[IEEE2017](https://ieeexplore.ieee.org/abstract/document/8101498)|[Tensorflow](https://github.com/zhouliguo/VSSR)| Satellite Imagery |Kanghui Zhao|
+|(ADECNN)Super Resolution Reconstruction Based on Adaptive Detail Enhancement for ZY-3 Satellite Images |[ISPRS2016](https://pdfs.semanticscholar.org/81cb/19602deeb724ce22dfc29e374ac787c61f1e.pdf)|| Satellite Imagery |Kanghui Zhao|

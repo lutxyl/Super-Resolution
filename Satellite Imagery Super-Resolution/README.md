@@ -7,3 +7,4 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |Model |Published |Code* |Keywords|Person liable*|
 |:-----|:---------|:-----|:-------|:-------|
 |(PECNN) A Progressively Enhanced Network for Video Satellite Imagery Super-Resolution |[IEEE2018](https://ieeexplore.ieee.org/document/8466642)|[Tensorflow](https://github.com/kuihua/PECNN)| Satellite Imagery |Kanghui Zhao|
+|(VSSR)Video Satellite Imagery Super Resolution via Convolutional Neural Networks|[IEEE2017](https://ieeexplore.ieee.org/abstract/document/8101498)|[Tensorflow](https://github.com/zhouliguo/VSSR)| Satellite Imagery |Kanghui Zhao|

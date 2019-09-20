@@ -14,6 +14,8 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |(PASSRnet)Learning Parallax Attention for Stereo Image Super-Resolution| [CVPR2019](https://arxiv.org/pdf/1903.05784.pdf)|[Pytorch](https://github.com/LongguangWang/PASSRnet?tdsourcetag=s_pcqq_aiomsg)| Learning Parallax Attention | Yuanzhi Wang|
 |(SRFBN)Feedback Network for Image Super-Resolution| [CVPR2019](https://arxiv.org/abs/1903.09814)|[Pytorch](https://github.com/Paper99/SRFBN_CVPR19)| Feedback Network | Yuanzhi Wang|
 |(SRNTT)Image Super-Resolution by Neural Texture Transfer| [CVPR2019](https://arxiv.org/abs/1903.00834)|[Tensorflow](https://github.com/ZZUTK/SRNTT)| Neural Texture Transfer | Yuanzhi Wang|
+|(CameraSR)Camera Lens Super-Resolution| [arxiv2019](https://arxiv.org/pdf/1904.03378.pdf?tdsourcetag=s_pcqq_aiomsg)|[Tensorflow](https://github.com/ngchc/CameraSR)| CameraSR | Yuanzhi Wang|
+|(Zoom-learn-Zoom)Zoom to Learn, Learn to Zoom| [arxiv2019](https://arxiv.org/pdf/1905.05169.pdf?tdsourcetag=s_pcqq_aiomsg)|[Tensorflow](https://github.com/ceciliavision/zoom-learn-zoom )| Zoom-learn-Zoom | Yuanzhi Wang|
 |(RCAN)Image Super-Resolution Using Very Deep Residual Channel Attention| [ECCV2018](https://arxiv.org/abs/1807.02758)|[Pytorch](https://github.com/yulunzhang/RCAN)| Channel Attention Networks | Yuanzhi Wang|
 |(WDSR)Wide Activation for Efficient and Accurate Image Super-Resolution| [CVPR2018](https://arxiv.org/pdf/1808.08718v2.pdf)|[Pytorch](https://github.com/SJHNJU/WDSR)| Wide Activation | Yuanzhi Wang|
 |(SRMD)Learning a Single Convolutional Super-Resolution Network for Multiple Degradations| [CVPR2018](https://arxiv.org/abs/1712.06116)|[Pytorch](https://github.com/cszn/SRMD)| Multiple Degradations | Yuanzhi Wang|

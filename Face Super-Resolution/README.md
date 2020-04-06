@@ -6,7 +6,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 
 |Model |Published |Code* |Keywords|Person|
 |:-----|:---------|:-----|:-------|:-----|
-|(PRDRN)Parallel Region-Based Deep Residual Networks for Face Hallucination|[IEEE ACCESS2019](https://ieeexplore.ieee.org/document/8736811?tdsourcetag=s_pcqq_aiomsg)|[Pytorch](https://github.com/lutxyl/Super-Resolution/blob/master/Face%20Super-Resolution/PRDRN.rar)|Parallel Region-Based| Yuanzhi Wang|
+|(PRDRN)Parallel Region-Based Deep Residual Networks for Face Hallucination|[IEEE ACCESS2019](https://ieeexplore.ieee.org/document/8736811?tdsourcetag=s_pcqq_aiomsg)|[caffe](https://github.com/lutxyl/Super-Resolution/blob/master/Face%20Super-Resolution/PRDRN.rar)|Parallel Region-Based| Yuanzhi Wang|
 |(FaceAttr)Super-Resolving Very Low-Resolution Face Images with Supplementary Attributes|[CVPR2018](https://basurafernando.github.io/papers/XinYuCVPR18.pdf?tdsourcetag=s_pcqq_aiomsg)|[Pytorch](https://github.com/XinYuANU/FaceAttr)| Supplementary Attributes| Yuanzhi Wang|
 |(EDGAN)Enhanced Discriminative Generative Adversarial Network for Face Super-Resolution|[PCM2018](https://link.springer.com/chapter/10.1007/978-3-030-00767-6_41?tdsourcetag=s_pcqq_aiomsg)||Discriminative Generative Adversarial| Yuanzhi Wang|
 |(WGAN)Face Super-Resolution Through Wasserstein GANs| [ML2017](https://arxiv.org/pdf/1705.02438.pdf)|[Pytorch](https://github.com/MandyZChen/srez)| Face Super-Resolution | Yuanzhi Wang|
